@@ -1,1 +1,1 @@
-# here are sketches of scripts, not all of which are working.
+# here are sketches of scripts
