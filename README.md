@@ -1,1 +1,1 @@
-# here are sketches of scripts
+# sketches of scripts
