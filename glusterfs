@@ -1,0 +1,2 @@
+#Automount fstab glsuterfs
+ip_or_host:/name_replica /mnt/backup glsuterfs defaults,noauto,x-systemd.automount,x-systemd.mount-timeout=30,_netdev,log-level=WARNING,log-file=/var/log/gluster.log 0 0
