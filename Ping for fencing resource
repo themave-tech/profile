@@ -1,0 +1,13 @@
+#!/bin/bash
+TIME=$(date +%Y-%m-%d-%T)
+while true; do
+for i in 192.168.137{101..110}
+do ping -c 1 $i > /dev/null
+if [ $? -eq 0 ]; then
+echo Connection established $i $TIME >> /var/log/connection && sudo pcs resource enable cluster --host $HOSTNAME
+elif [ $? -ne 0 ]; then
+echo Host $i Unreachable $TIME >> /var/log/connection && sudo pcs resourse disable --host $HOSTNAME
+fi
+done
+sleep 5 #Timeout before launch resource 30 sec
+done
