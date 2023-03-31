@@ -1,2 +1,8 @@
-#Automount fstab glsuterfs for cluster
-ip_or_host:/name_replica /mnt/backup glsuterfs defaults,noauto,x-systemd.automount,x-systemd.mount-timeout=30,_netdev,log-level=WARNING,log-file=/var/log/gluster.log 0 0
+#!/bin/bash
+ip=192.168.1.1
+dir=/home/gluster
+sleep 10
+sudo mount -t glusterfs "$ip":/name_replica "$dir" 
+#$ip - virtual ip addres cluster or "$HOSTNAME" 
+
+#Automount fstab: ip_or_host:/name_replica /mnt/backup glsuterfs defaults,noauto,x-systemd.automount,x-systemd.mount-timeout=30,_netdev,log-level=WARNING,log-file=/var/log/gluster.log 0 0
