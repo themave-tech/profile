@@ -1,0 +1,15 @@
+#!/bin/bash
+trap 'echo "$BASH_COMMAND"; read' DEBUG
+ip=192.168.1.1
+while true; do
+IFS=/;
+ip_check=$(sudo ifconfig | grep -i 'inet' | awk '{print}')
+if [[ ${ip_check} =~ ${ip} ]]
+then
+ip link set dev bond0 address $MAC1
+else
+ip link set dev bond0 address $MAC2
+fi
+sleep 0.3
+done
+exit
