@@ -1,7 +1,7 @@
 #!/bin/bash
 TIME=$(date +%Y-%m-%d-%T)
 while true; do
-for i in 192.168.137{101..110}
+for i in 192.168.137{101..103} #IP address clusters, if connection refuse, then resourse - down
 do ping -c 1 $i > /dev/null
 if [ $? -eq 0 ]; then
 echo Connection established $i $TIME >> /var/log/connection && sudo pcs resource enable cluster --host $HOSTNAME
