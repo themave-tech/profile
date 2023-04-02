@@ -6,5 +6,6 @@
 <h4 align="center">I’m currently learning DevOps and i love Linux</a>
 <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="32"/></h3>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=themave-tech&show_icons=true)  
+![GitHub metrics](https://metrics.lecoq.io/themave-tech)  
 ![Profile views](https://gpvc.arturio.dev/themave-tech)  
+
