@@ -6,6 +6,6 @@
 <h4 align="center">I’m currently learning DevOps and i love Linux</a>
 <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="32"/></h3>
 <p align="center" width="100%">
-    <img width="33%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRjNGE0YzVmM2RmNDFhNTc3MzQ2ZjNkZGFhNjU0MTE4MjhhOWY1YiZjdD1z/lRLzrbhmh5pFf4jOga/giphy.gif"> 
+    <img width="33%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFiOTYyNjdjYWQyZDhkNTBkZGU1OWMzMmZiNTdjZTYyYTA0NzIxMyZjdD1z/Tgxr8pn069Sf7mgv0e/giphy.gif"> 
 </p>
 
