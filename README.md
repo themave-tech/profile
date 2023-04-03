@@ -9,7 +9,6 @@
 ![Profile views](https://gpvc.arturio.dev/themave-tech)  
 <p class="aligncenter">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhYjZkZmQzZTkxMDk1NDhlZWY1NmIwMGQxNTQ1ODZiMDg3YzAxNCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif" height="256"/></p>
-<style>
 .aligncenter {
     text-align: center;
 }
