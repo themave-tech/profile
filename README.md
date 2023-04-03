@@ -9,5 +9,5 @@
 ![Profile views](https://gpvc.arturio.dev/themave-tech)  
 
 <p align="center" width="100%">
-    <img width="33%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhYjZkZmQzZTkxMDk1NDhlZWY1NmIwMGQxNTQ1ODZiMDg3YzAxNCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif"> 
+    <img width="33%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRjNGE0YzVmM2RmNDFhNTc3MzQ2ZjNkZGFhNjU0MTE4MjhhOWY1YiZjdD1z/lRLzrbhmh5pFf4jOga/giphy.gif"> 
 </p>
