@@ -1,5 +1,6 @@
 <h1 align="center">I'm Leonid Boldysh</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
 <h3 align="center">Engineer and computer science student</h3>
 <h4 align="center">I’m currently working on solutions in the field of system engineering and high availability</a>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlZDQwYjI5YTczOTJkOWZmM2M4YWJiNjY1NDA1Y2YxZTBmM2UzZiZjdD1z/6DMQZJN1cdvOltZPch/giphy.gif" height="32"/></h4>
