@@ -6,5 +6,5 @@
 <h4 align="center">I’m currently learning DevOps and i love Linux</a>
 <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="32"/></h3>
 <p align="right" width="100%">
-    <img width="33%" src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif"> 
+    <img width="20%" src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif"> 
 </p>
