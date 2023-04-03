@@ -7,4 +7,8 @@
 <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="32"/></h3>
  
 ![Profile views](https://gpvc.arturio.dev/themave-tech)  
-<div style="text-align:center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhYjZkZmQzZTkxMDk1NDhlZWY1NmIwMGQxNTQ1ODZiMDg3YzAxNCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif" height="256"/></div>
+<div style="text-align:center"><img src="" height="256"/></div>
+
+<p align="center" width="100%">
+    <img width="33%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhYjZkZmQzZTkxMDk1NDhlZWY1NmIwMGQxNTQ1ODZiMDg3YzAxNCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif"> 
+</p>
