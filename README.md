@@ -4,8 +4,7 @@
 <h4 align="center">I’m currently working on solutions in the field of system engineering and high availability</a>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlZDQwYjI5YTczOTJkOWZmM2M4YWJiNjY1NDA1Y2YxZTBmM2UzZiZjdD1z/6DMQZJN1cdvOltZPch/giphy.gif" height="32"/></h4>
 <h4 align="center">I’m currently learning DevOps and i love Linux <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="32"/></a>
-<h2 align="center">My study in Netology</h2>
-<a href="https://github.com/themave-tech/Netology-sys/tree/main/"><p style="text-align:center">Netology online education</p></a>
+<a href="https://github.com/themave-tech/Netology-sys/tree/main/"><p style="text-align:center">My study in online education Netology</p></a>
 <p align="right" width="100%">
     <img width="20%" src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif"> 
 </p>
